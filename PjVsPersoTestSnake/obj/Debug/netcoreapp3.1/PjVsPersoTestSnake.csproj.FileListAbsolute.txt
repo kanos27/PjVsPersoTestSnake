@@ -1,0 +1,13 @@
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\bin\Debug\netcoreapp3.1\PjVsPersoTestSnake.exe
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\bin\Debug\netcoreapp3.1\PjVsPersoTestSnake.deps.json
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\bin\Debug\netcoreapp3.1\PjVsPersoTestSnake.runtimeconfig.json
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\bin\Debug\netcoreapp3.1\PjVsPersoTestSnake.runtimeconfig.dev.json
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\bin\Debug\netcoreapp3.1\PjVsPersoTestSnake.dll
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\bin\Debug\netcoreapp3.1\PjVsPersoTestSnake.pdb
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.csprojAssemblyReference.cache
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.AssemblyInfoInputs.cache
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.AssemblyInfo.cs
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.csproj.CoreCompileInputs.cache
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.dll
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.pdb
+C:\Users\Elève\source\repos\PjVsPersoTestSnake\PjVsPersoTestSnake\obj\Debug\netcoreapp3.1\PjVsPersoTestSnake.genruntimeconfig.cache
